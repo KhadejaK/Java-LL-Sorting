@@ -1,0 +1,10 @@
+item  price  quantity
+raman  0.33  5
+whole wheat bread  2.48  1
+edamame  1.85  2
+corn tortillas  0.75  3
+apples  1  2
+salmon  11.90  1
+paneer  3.29   1
+tofu  1.75  2
+dried chilies  1.05  5

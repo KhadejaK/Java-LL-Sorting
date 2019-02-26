@@ -1,0 +1,11 @@
+Ticker	Company	CEO Name	Year	Compensation ($)
+VRX	Valeant Pharmaceutical International	J. Michael Pearson	2015	$143,077,442
+MASI	Masimo Corporation	Joe Kiani	2015	$119,222,614
+SCTY	SolarCity Corporation	Lyndon R. Rive	2015	$77,318,016
+GBL	Gamco Investors	Mario J. Gabelli	2015	$75,018,176
+PANW	Palo Alto Networks	Mark D. Mclaughlin	2015	$66,606,716
+CBS	CBS Corporation	Leslie Moonves	2015	$56,773,822
+VIAB	Viacom	Philippe P. Dauman	2015	$54,154,312
+LNG	Cheniere Energy	Charif Souki	2015	$54,041,015
+ORCL	Oracle Corporation	Mark V. Hurd	2015	$53,245,128
+REGN	Regeneron Pharmaceuticals	Leonard S. Schleifer 	2015	$47,462,526
